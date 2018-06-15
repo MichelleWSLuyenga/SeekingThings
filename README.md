@@ -9,7 +9,7 @@ MAIN POINTS OF THIS IDEA
 -its designs to help finding any desire product from many locations 
 -it algorithm 
 
-WHAT IS DATA MINING? 
+WHAT IS DATA MINING? <br/>
 Data mining is a computing process of discovering patterns in large data sets involve many methods at the intersection. It 
 is essential process where intelligent methods are applied to extract data patterns. Data miners find clusters of 
 information based on logical relationships, or they look at associations and sequential patterns to draw conclusions about 
