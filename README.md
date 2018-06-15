@@ -1,6 +1,6 @@
-# OutOfBlue
+# SEEKING THING
 
-WHAT IS SEEKING THING? 
+WHAT IS SEEKING THING?<br/>
 Seeking Thing is designs to search and find almost every product around the world. To give us many aspect of view on a particular type of product, where as describing information, comparing it, tell where is it available.  
 
 MAIN POINTS OF THIS IDEA 
