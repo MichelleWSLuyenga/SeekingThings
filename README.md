@@ -6,8 +6,8 @@ Seeking Thing is designs to search and find almost every product around the worl
 MAIN POINTS OF THIS IDEA 
 - to reduce time in product searching from different websites 
 - to ease the boredom of searching a product with the same category from differ site and brand 
--its designs to help finding any desire product from many locations 
--it algorithm 
+- its designs to help finding any desire product from many locations 
+- it algorithm 
 
 WHAT IS DATA MINING? <br/>
 Data mining is a computing process of discovering patterns in large data sets involve many methods at the intersection. It 
